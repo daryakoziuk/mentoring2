@@ -1,6 +1,5 @@
 package com.dmdev.common.common;
 
-import com.dmdev.common.dto.UserDto;
 import com.dmdev.common.entity.User;
 
 import java.util.Optional;
